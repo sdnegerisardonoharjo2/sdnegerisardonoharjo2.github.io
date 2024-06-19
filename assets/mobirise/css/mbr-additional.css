@@ -155,7 +155,7 @@ body {
   background-color: #1a3c22 !important;
 }
 .bg-warning {
-  background-color: #ffaac7 !important;
+  background-color: #000000 !important;
 }
 .bg-danger {
   background-color: #008063 !important;
@@ -250,8 +250,8 @@ body {
 }
 .btn-warning,
 .btn-warning:active {
-  background-color: #ffaac7 !important;
-  border-color: #ffaac7 !important;
+  background-color: #000000 !important;
+  border-color: #000000 !important;
   color: #ffffff !important;
   box-shadow: none;
 }
@@ -260,15 +260,15 @@ body {
 .btn-warning.focus,
 .btn-warning.active {
   color: inherit;
-  background-color: #ffdde9 !important;
-  border-color: #ffdde9 !important;
+  background-color: #1a1a1a !important;
+  border-color: #1a1a1a !important;
   box-shadow: none;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #ffdde9 !important;
-  border-color: #ffdde9 !important;
+  background-color: #1a1a1a !important;
+  border-color: #1a1a1a !important;
 }
 .btn-danger,
 .btn-danger:active {
@@ -423,23 +423,23 @@ body {
 .btn-warning-outline,
 .btn-warning-outline:active {
   background-color: transparent !important;
-  border-color: #ffaac7;
-  color: #ffaac7;
+  border-color: #000000;
+  color: #000000;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
 .btn-warning-outline.focus,
 .btn-warning-outline.active {
-  color: #ff538e !important;
+  color: #000000 !important;
   background-color: transparent !important;
-  border-color: #ff538e !important;
+  border-color: #000000 !important;
   box-shadow: none !important;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #ffffff !important;
-  background-color: #ffaac7 !important;
-  border-color: #ffaac7 !important;
+  background-color: #000000 !important;
+  border-color: #000000 !important;
 }
 .btn-danger-outline,
 .btn-danger-outline:active {
@@ -517,7 +517,7 @@ body {
   color: #1a3c22 !important;
 }
 .text-warning {
-  color: #ffaac7 !important;
+  color: #000000 !important;
 }
 .text-danger {
   color: #008063 !important;
@@ -551,7 +551,7 @@ a.text-info.active {
 a.text-warning:hover,
 a.text-warning:focus,
 a.text-warning.active {
-  color: #ff4484 !important;
+  color: #000000 !important;
 }
 a.text-danger:hover,
 a.text-danger:focus,
@@ -594,7 +594,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
   background-color: #1a3c22;
 }
 .alert-warning {
-  background-color: #ffaac7;
+  background-color: #000000;
 }
 .alert-danger {
   background-color: #008063;
@@ -634,7 +634,7 @@ a:hover {
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #b3b3b3;
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
@@ -903,7 +903,6 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: #a6a99c !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -915,7 +914,7 @@ a {
   align-items: center;
   border-radius: 100vw;
   margin-top: 1rem;
-  background-color: #a6a99c;
+  background-color: #538392;
   box-shadow: 0 30px 60px 0 rgba(27, 31, 10, 0.08);
 }
 @media (max-width: 992px) {
@@ -944,8 +943,7 @@ a {
   border-radius: 1.5rem;
   transition: .3s all !important;
   min-width: auto;
-  background: #a6a99c;
-  background: #a6a99c !important;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .nav-item:focus,
 .cid-ufjOWDUQzP .nav-link:focus {
@@ -1107,7 +1105,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #a6a99c;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1145,7 +1143,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #538392;
 }
 .cid-ufjOWDUQzP button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1271,10 +1269,7 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #a6a99c;
-    opacity: 1;
-    border-color: #a6a99c !important;
-    background: #a6a99c !important;
+    background: #538392;
     backdrop-filter: blur(8px);
   }
   .cid-ufjOWDUQzP .navbar-nav .nav-item .nav-link::after {
@@ -1341,7 +1336,7 @@ a {
 .cid-ufjRkoSpT4 {
   padding-top: 12rem;
   padding-bottom: 1rem;
-  background-color: #fff67e;
+  background-image: url("../../../assets/images/192321188-860716581207419-2558697464485975750-n-1080x1080.jpeg");
 }
 .cid-ufjRkoSpT4 .mbr-fallback-image.disabled {
   display: none;
@@ -1387,135 +1382,10 @@ a {
 .cid-ufjRkoSpT4 .content-head {
   max-width: 800px;
 }
-.cid-ufDTO6DA1Y {
-  padding-top: 1rem;
-  padding-bottom: 3rem;
-  background-color: #fff67e;
-}
-@media (min-width: 992px) {
-  .cid-ufDTO6DA1Y .carousel {
-    max-height: 600px;
-  }
-  .cid-ufDTO6DA1Y .carousel img {
-    height: 600px;
-    object-fit: cover;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-ufDTO6DA1Y .carousel {
-    min-height: 390px;
-  }
-  .cid-ufDTO6DA1Y .carousel img {
-    height: 390px;
-    object-fit: cover;
-  }
-}
-@media (max-width: 767px) {
-  .cid-ufDTO6DA1Y .carousel {
-    min-height: 330px;
-  }
-  .cid-ufDTO6DA1Y .carousel img {
-    height: 330px;
-    object-fit: cover;
-  }
-  .cid-ufDTO6DA1Y .container .carousel-control {
-    margin-bottom: 0;
-  }
-  .cid-ufDTO6DA1Y .content-slider-wrap {
-    width: 100% !important;
-  }
-}
-.cid-ufDTO6DA1Y .carousel,
-.cid-ufDTO6DA1Y .carousel-inner {
-  display: flex;
-  align-items: center;
-}
-.cid-ufDTO6DA1Y .item-wrapper {
-  width: 100%;
-}
-.cid-ufDTO6DA1Y .item-menu-overlay {
-  border-radius: 2rem;
-}
-.cid-ufDTO6DA1Y .carousel-control:hover {
-  background: #1b1b1b;
-  color: #fff;
-  opacity: 1;
-}
-.cid-ufDTO6DA1Y .mobi-mbri-arrow-next {
-  margin-left: 5px;
-}
-.cid-ufDTO6DA1Y .mobi-mbri-arrow-prev {
-  margin-right: 5px;
-}
-.cid-ufDTO6DA1Y .container .carousel-indicators {
-  margin-bottom: 3px;
-}
-.cid-ufDTO6DA1Y .carousel-control {
-  top: 50%;
-  width: 60px;
-  height: 60px;
-  margin-top: -1.5rem;
-  font-size: 22px;
-  background-color: rgba(0, 0, 0, 0.5);
-  border: 2px solid #fff;
-  border-radius: 50%;
-  transition: all 0.3s;
-}
-.cid-ufDTO6DA1Y .carousel-control.carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-ufDTO6DA1Y .carousel-control.carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-@media (max-width: 767px) {
-  .cid-ufDTO6DA1Y .carousel-control {
-    top: auto;
-    bottom: 1rem;
-  }
-}
-.cid-ufDTO6DA1Y .carousel-indicators {
-  position: absolute;
-  bottom: 0;
-  margin-bottom: 1.5rem !important;
-}
-.cid-ufDTO6DA1Y .carousel-indicators li {
-  max-width: 15px;
-  height: 15px;
-  width: 15px;
-  max-height: 15px;
-  margin: 3px;
-  background-color: rgba(0, 0, 0, 0.5);
-  border: 2px solid #fff;
-  border-radius: 50%;
-  opacity: 0.5;
-  transition: all 0.3s;
-}
-.cid-ufDTO6DA1Y .carousel-indicators li.active,
-.cid-ufDTO6DA1Y .carousel-indicators li:hover {
-  opacity: 0.9;
-}
-.cid-ufDTO6DA1Y .carousel-indicators li::after,
-.cid-ufDTO6DA1Y .carousel-indicators li::before {
-  content: none;
-}
-.cid-ufDTO6DA1Y .carousel-indicators.ie-fix {
-  left: 50%;
-  display: block;
-  width: 60%;
-  margin-left: -30%;
-  text-align: center;
-}
-@media (max-width: 768px) {
-  .cid-ufDTO6DA1Y .carousel-indicators {
-    display: none !important;
-  }
-}
 .cid-ufjWUgXwYy {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #bfea7c;
+  background-color: #538392;
 }
 .cid-ufjWUgXwYy .mbr-fallback-image.disabled {
   display: none;
@@ -1531,7 +1401,7 @@ a {
 }
 .cid-ufjWUgXwYy .card-wrapper {
   overflow: hidden;
-  background: #bfea7c;
+  background: #f7f7f7;
 }
 .cid-ufjWUgXwYy .text-wrapper {
   padding: 4rem 3rem;
@@ -1569,9 +1439,9 @@ a {
   color: #1a3c22;
 }
 .cid-tIsi3HZcCy {
-  padding-top: 6rem;
+  padding-top: 3rem;
   padding-bottom: 6rem;
-  background: #9bcf53;
+  background: #538392;
 }
 .cid-tIsi3HZcCy .mbr-fallback-image.disabled {
   display: none;
@@ -1785,7 +1655,7 @@ a {
 .cid-uflW3zI05N {
   padding-top: 3rem;
   padding-bottom: 5rem;
-  background: #416d19;
+  background: #6295a2;
 }
 .cid-uflW3zI05N .mbr-fallback-image.disabled {
   display: none;
@@ -1868,7 +1738,7 @@ a {
 .cid-ufmh8LEgwq {
   padding-top: 1rem;
   padding-bottom: 2rem;
-  background-color: #fff67e;
+  background-color: #80b9ad;
 }
 .cid-ufmh8LEgwq .mbr-fallback-image.disabled {
   display: none;
@@ -2042,7 +1912,6 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: #a6a99c !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -2054,7 +1923,7 @@ a {
   align-items: center;
   border-radius: 100vw;
   margin-top: 1rem;
-  background-color: #a6a99c;
+  background-color: #538392;
   box-shadow: 0 30px 60px 0 rgba(27, 31, 10, 0.08);
 }
 @media (max-width: 992px) {
@@ -2083,8 +1952,7 @@ a {
   border-radius: 1.5rem;
   transition: .3s all !important;
   min-width: auto;
-  background: #a6a99c;
-  background: #a6a99c !important;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .nav-item:focus,
 .cid-ufjOWDUQzP .nav-link:focus {
@@ -2246,7 +2114,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #a6a99c;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -2410,10 +2278,7 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #a6a99c;
-    opacity: 1;
-    border-color: #a6a99c !important;
-    background: #a6a99c !important;
+    background: #538392;
     backdrop-filter: blur(8px);
   }
   .cid-ufjOWDUQzP .navbar-nav .nav-item .nav-link::after {
@@ -2481,7 +2346,7 @@ a {
   display: flex;
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #fff67e;
+  background-color: #80b9ad;
 }
 .cid-ufnR0m7jl6 .mbr-fallback-image.disabled {
   display: none;
@@ -2538,15 +2403,15 @@ a {
   text-align: center;
   color: #000000;
 }
-.cid-ufyWm5PywU {
+.cid-ug7cRbV3Dv {
   padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/latar-belakanglatar-belakang-promosi-pendidikan-grid-cat-air-book-berbunga-sekolah-latar-belakang-untuk-unduhan-gratis-735x525.jpg");
 }
-.cid-ufyWm5PywU .mbr-fallback-image.disabled {
+.cid-ug7cRbV3Dv .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ufyWm5PywU .mbr-fallback-image {
+.cid-ug7cRbV3Dv .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -2555,21 +2420,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ufyWm5PywU .image-wrap img {
+.cid-ug7cRbV3Dv .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ufyWm5PywU .image-wrap img {
+  .cid-ug7cRbV3Dv .image-wrap img {
     display: block;
     margin: auto;
     width: 80%;
   }
 }
-.cid-ufyWm5PywU .row-links {
+.cid-ug7cRbV3Dv .row-links {
   width: 100%;
   justify-content: center;
 }
-.cid-ufyWm5PywU .header-menu {
+.cid-ug7cRbV3Dv .header-menu {
   margin-top: 2rem;
   list-style: none;
   display: flex;
@@ -2578,19 +2443,19 @@ a {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-ufyWm5PywU .header-menu li {
+.cid-ug7cRbV3Dv .header-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-ufyWm5PywU .header-menu li p {
+.cid-ug7cRbV3Dv .header-menu li p {
   margin: 0;
 }
-.cid-ufyWm5PywU .content-head {
+.cid-ug7cRbV3Dv .content-head {
   max-width: 800px;
 }
 .cid-ufnTfs49Du {
   padding-top: 3rem;
   padding-bottom: 5rem;
-  background: #416d19;
+  background: #538392;
 }
 .cid-ufnTfs49Du .mbr-fallback-image.disabled {
   display: none;
@@ -2673,7 +2538,7 @@ a {
 .cid-ufyDXLgrNy {
   padding-top: 1rem;
   padding-bottom: 2rem;
-  background-color: #fff67e;
+  background-color: #80b9ad;
 }
 .cid-ufyDXLgrNy .mbr-fallback-image.disabled {
   display: none;
@@ -2847,7 +2712,6 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: #a6a99c !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -2859,7 +2723,7 @@ a {
   align-items: center;
   border-radius: 100vw;
   margin-top: 1rem;
-  background-color: #a6a99c;
+  background-color: #538392;
   box-shadow: 0 30px 60px 0 rgba(27, 31, 10, 0.08);
 }
 @media (max-width: 992px) {
@@ -2888,8 +2752,7 @@ a {
   border-radius: 1.5rem;
   transition: .3s all !important;
   min-width: auto;
-  background: #a6a99c;
-  background: #a6a99c !important;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .nav-item:focus,
 .cid-ufjOWDUQzP .nav-link:focus {
@@ -3051,7 +2914,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #a6a99c;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -3215,10 +3078,7 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #a6a99c;
-    opacity: 1;
-    border-color: #a6a99c !important;
-    background: #a6a99c !important;
+    background: #538392;
     backdrop-filter: blur(8px);
   }
   .cid-ufjOWDUQzP .navbar-nav .nav-item .nav-link::after {
@@ -3285,7 +3145,7 @@ a {
 .cid-ufCRXP3HDP {
   padding-top: 10rem;
   padding-bottom: 6rem;
-  background-color: #9bcf53;
+  background-color: #80b9ad;
 }
 .cid-ufCRXP3HDP .mbr-fallback-image.disabled {
   display: none;
@@ -3341,15 +3201,15 @@ a {
 .cid-ufCRXP3HDP .mbr-section-title {
   color: #000000;
 }
-.cid-ufyWuZXKaY {
+.cid-ug7cZjmBYf {
   padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/latar-belakanglatar-belakang-promosi-pendidikan-grid-cat-air-book-berbunga-sekolah-latar-belakang-untuk-unduhan-gratis-735x525.jpg");
 }
-.cid-ufyWuZXKaY .mbr-fallback-image.disabled {
+.cid-ug7cZjmBYf .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ufyWuZXKaY .mbr-fallback-image {
+.cid-ug7cZjmBYf .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -3358,21 +3218,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ufyWuZXKaY .image-wrap img {
+.cid-ug7cZjmBYf .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ufyWuZXKaY .image-wrap img {
+  .cid-ug7cZjmBYf .image-wrap img {
     display: block;
     margin: auto;
     width: 80%;
   }
 }
-.cid-ufyWuZXKaY .row-links {
+.cid-ug7cZjmBYf .row-links {
   width: 100%;
   justify-content: center;
 }
-.cid-ufyWuZXKaY .header-menu {
+.cid-ug7cZjmBYf .header-menu {
   margin-top: 2rem;
   list-style: none;
   display: flex;
@@ -3381,19 +3241,19 @@ a {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-ufyWuZXKaY .header-menu li {
+.cid-ug7cZjmBYf .header-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-ufyWuZXKaY .header-menu li p {
+.cid-ug7cZjmBYf .header-menu li p {
   margin: 0;
 }
-.cid-ufyWuZXKaY .content-head {
+.cid-ug7cZjmBYf .content-head {
   max-width: 800px;
 }
 .cid-ufyHCMvfyU {
   padding-top: 3rem;
   padding-bottom: 5rem;
-  background: #416d19;
+  background: #538392;
 }
 .cid-ufyHCMvfyU .mbr-fallback-image.disabled {
   display: none;
@@ -3476,7 +3336,7 @@ a {
 .cid-ufyHDQF0BX {
   padding-top: 1rem;
   padding-bottom: 2rem;
-  background-color: #fff67e;
+  background-color: #80b9ad;
 }
 .cid-ufyHDQF0BX .mbr-fallback-image.disabled {
   display: none;
@@ -3650,7 +3510,6 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: #a6a99c !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -3662,7 +3521,7 @@ a {
   align-items: center;
   border-radius: 100vw;
   margin-top: 1rem;
-  background-color: #a6a99c;
+  background-color: #538392;
   box-shadow: 0 30px 60px 0 rgba(27, 31, 10, 0.08);
 }
 @media (max-width: 992px) {
@@ -3691,8 +3550,7 @@ a {
   border-radius: 1.5rem;
   transition: .3s all !important;
   min-width: auto;
-  background: #a6a99c;
-  background: #a6a99c !important;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .nav-item:focus,
 .cid-ufjOWDUQzP .nav-link:focus {
@@ -3854,7 +3712,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #a6a99c;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -4018,10 +3876,7 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #a6a99c;
-    opacity: 1;
-    border-color: #a6a99c !important;
-    background: #a6a99c !important;
+    background: #538392;
     backdrop-filter: blur(8px);
   }
   .cid-ufjOWDUQzP .navbar-nav .nav-item .nav-link::after {
@@ -4134,15 +3989,15 @@ a {
 .cid-ufyJvsoyTh .content-head {
   max-width: 800px;
 }
-.cid-ufyWAFdqHP {
+.cid-ug7d4fzZ5G {
   padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/latar-belakanglatar-belakang-promosi-pendidikan-grid-cat-air-book-berbunga-sekolah-latar-belakang-untuk-unduhan-gratis-735x525.jpg");
 }
-.cid-ufyWAFdqHP .mbr-fallback-image.disabled {
+.cid-ug7d4fzZ5G .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ufyWAFdqHP .mbr-fallback-image {
+.cid-ug7d4fzZ5G .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -4151,21 +4006,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ufyWAFdqHP .image-wrap img {
+.cid-ug7d4fzZ5G .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ufyWAFdqHP .image-wrap img {
+  .cid-ug7d4fzZ5G .image-wrap img {
     display: block;
     margin: auto;
     width: 80%;
   }
 }
-.cid-ufyWAFdqHP .row-links {
+.cid-ug7d4fzZ5G .row-links {
   width: 100%;
   justify-content: center;
 }
-.cid-ufyWAFdqHP .header-menu {
+.cid-ug7d4fzZ5G .header-menu {
   margin-top: 2rem;
   list-style: none;
   display: flex;
@@ -4174,19 +4029,19 @@ a {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-ufyWAFdqHP .header-menu li {
+.cid-ug7d4fzZ5G .header-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-ufyWAFdqHP .header-menu li p {
+.cid-ug7d4fzZ5G .header-menu li p {
   margin: 0;
 }
-.cid-ufyWAFdqHP .content-head {
+.cid-ug7d4fzZ5G .content-head {
   max-width: 800px;
 }
 .cid-ufyKaKrQ1C {
   padding-top: 3rem;
   padding-bottom: 5rem;
-  background: #416d19;
+  background: #538392;
 }
 .cid-ufyKaKrQ1C .mbr-fallback-image.disabled {
   display: none;
@@ -4269,7 +4124,7 @@ a {
 .cid-ufyKbG4vBz {
   padding-top: 1rem;
   padding-bottom: 2rem;
-  background-color: #fff67e;
+  background-color: #80b9ad;
 }
 .cid-ufyKbG4vBz .mbr-fallback-image.disabled {
   display: none;
@@ -4443,7 +4298,6 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: #a6a99c !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -4455,7 +4309,7 @@ a {
   align-items: center;
   border-radius: 100vw;
   margin-top: 1rem;
-  background-color: #a6a99c;
+  background-color: #538392;
   box-shadow: 0 30px 60px 0 rgba(27, 31, 10, 0.08);
 }
 @media (max-width: 992px) {
@@ -4484,8 +4338,7 @@ a {
   border-radius: 1.5rem;
   transition: .3s all !important;
   min-width: auto;
-  background: #a6a99c;
-  background: #a6a99c !important;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .nav-item:focus,
 .cid-ufjOWDUQzP .nav-link:focus {
@@ -4647,7 +4500,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #a6a99c;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -4811,10 +4664,7 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #a6a99c;
-    opacity: 1;
-    border-color: #a6a99c !important;
-    background: #a6a99c !important;
+    background: #538392;
     backdrop-filter: blur(8px);
   }
   .cid-ufjOWDUQzP .navbar-nav .nav-item .nav-link::after {
@@ -4881,7 +4731,7 @@ a {
 .cid-ufyKmZ4xIx {
   padding-top: 8rem;
   padding-bottom: 6rem;
-  background-color: #fff67e;
+  background-color: #f7f7f7;
 }
 .cid-ufyKmZ4xIx .item-subtitle {
   line-height: 1.2;
@@ -4928,15 +4778,15 @@ a {
 .cid-ufyKmZ4xIx .content-head {
   max-width: 800px;
 }
-.cid-ufyWGCiwzE {
+.cid-ug7d99dXrs {
   padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/latar-belakanglatar-belakang-promosi-pendidikan-grid-cat-air-book-berbunga-sekolah-latar-belakang-untuk-unduhan-gratis-735x525.jpg");
 }
-.cid-ufyWGCiwzE .mbr-fallback-image.disabled {
+.cid-ug7d99dXrs .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ufyWGCiwzE .mbr-fallback-image {
+.cid-ug7d99dXrs .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -4945,21 +4795,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ufyWGCiwzE .image-wrap img {
+.cid-ug7d99dXrs .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ufyWGCiwzE .image-wrap img {
+  .cid-ug7d99dXrs .image-wrap img {
     display: block;
     margin: auto;
     width: 80%;
   }
 }
-.cid-ufyWGCiwzE .row-links {
+.cid-ug7d99dXrs .row-links {
   width: 100%;
   justify-content: center;
 }
-.cid-ufyWGCiwzE .header-menu {
+.cid-ug7d99dXrs .header-menu {
   margin-top: 2rem;
   list-style: none;
   display: flex;
@@ -4968,19 +4818,19 @@ a {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-ufyWGCiwzE .header-menu li {
+.cid-ug7d99dXrs .header-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-ufyWGCiwzE .header-menu li p {
+.cid-ug7d99dXrs .header-menu li p {
   margin: 0;
 }
-.cid-ufyWGCiwzE .content-head {
+.cid-ug7d99dXrs .content-head {
   max-width: 800px;
 }
 .cid-ufyWJFlgfr {
   padding-top: 3rem;
   padding-bottom: 5rem;
-  background: #416d19;
+  background: #538392;
 }
 .cid-ufyWJFlgfr .mbr-fallback-image.disabled {
   display: none;
@@ -5063,7 +4913,7 @@ a {
 .cid-ufyWLm0jcm {
   padding-top: 1rem;
   padding-bottom: 2rem;
-  background-color: #fff67e;
+  background-color: #80b9ad;
 }
 .cid-ufyWLm0jcm .mbr-fallback-image.disabled {
   display: none;
@@ -5237,7 +5087,6 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: #a6a99c !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -5249,7 +5098,7 @@ a {
   align-items: center;
   border-radius: 100vw;
   margin-top: 1rem;
-  background-color: #a6a99c;
+  background-color: #538392;
   box-shadow: 0 30px 60px 0 rgba(27, 31, 10, 0.08);
 }
 @media (max-width: 992px) {
@@ -5278,8 +5127,7 @@ a {
   border-radius: 1.5rem;
   transition: .3s all !important;
   min-width: auto;
-  background: #a6a99c;
-  background: #a6a99c !important;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .nav-item:focus,
 .cid-ufjOWDUQzP .nav-link:focus {
@@ -5441,7 +5289,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #a6a99c;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -5605,10 +5453,7 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #a6a99c;
-    opacity: 1;
-    border-color: #a6a99c !important;
-    background: #a6a99c !important;
+    background: #538392;
     backdrop-filter: blur(8px);
   }
   .cid-ufjOWDUQzP .navbar-nav .nav-item .nav-link::after {
@@ -5692,7 +5537,7 @@ a {
 .cid-ufA0aIHujh {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #fff67e;
+  background-color: #538392;
 }
 .cid-ufA0aIHujh .mbr-fallback-image.disabled {
   display: none;
@@ -5707,7 +5552,7 @@ a {
   top: 0;
 }
 .cid-ufA0aIHujh .card-wrapper {
-  background: #bfea7c;
+  background: #80b9ad;
 }
 @media (max-width: 767px) {
   .cid-ufA0aIHujh .card-wrapper {
@@ -5734,15 +5579,15 @@ a {
   text-align: left;
   color: #000000;
 }
-.cid-ufAoYbDM0q {
+.cid-ug7dgbOESx {
   padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/latar-belakanglatar-belakang-promosi-pendidikan-grid-cat-air-book-berbunga-sekolah-latar-belakang-untuk-unduhan-gratis-735x525.jpg");
 }
-.cid-ufAoYbDM0q .mbr-fallback-image.disabled {
+.cid-ug7dgbOESx .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ufAoYbDM0q .mbr-fallback-image {
+.cid-ug7dgbOESx .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -5751,21 +5596,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ufAoYbDM0q .image-wrap img {
+.cid-ug7dgbOESx .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ufAoYbDM0q .image-wrap img {
+  .cid-ug7dgbOESx .image-wrap img {
     display: block;
     margin: auto;
     width: 80%;
   }
 }
-.cid-ufAoYbDM0q .row-links {
+.cid-ug7dgbOESx .row-links {
   width: 100%;
   justify-content: center;
 }
-.cid-ufAoYbDM0q .header-menu {
+.cid-ug7dgbOESx .header-menu {
   margin-top: 2rem;
   list-style: none;
   display: flex;
@@ -5774,19 +5619,19 @@ a {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-ufAoYbDM0q .header-menu li {
+.cid-ug7dgbOESx .header-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-ufAoYbDM0q .header-menu li p {
+.cid-ug7dgbOESx .header-menu li p {
   margin: 0;
 }
-.cid-ufAoYbDM0q .content-head {
+.cid-ug7dgbOESx .content-head {
   max-width: 800px;
 }
 .cid-ufAp51UitO {
   padding-top: 3rem;
   padding-bottom: 5rem;
-  background: #416d19;
+  background: #538392;
 }
 .cid-ufAp51UitO .mbr-fallback-image.disabled {
   display: none;
@@ -5869,7 +5714,7 @@ a {
 .cid-ufAp7k6yQk {
   padding-top: 1rem;
   padding-bottom: 2rem;
-  background-color: #fff67e;
+  background-color: #80b9ad;
 }
 .cid-ufAp7k6yQk .mbr-fallback-image.disabled {
   display: none;
@@ -6043,7 +5888,6 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: #a6a99c !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -6055,7 +5899,7 @@ a {
   align-items: center;
   border-radius: 100vw;
   margin-top: 1rem;
-  background-color: #a6a99c;
+  background-color: #538392;
   box-shadow: 0 30px 60px 0 rgba(27, 31, 10, 0.08);
 }
 @media (max-width: 992px) {
@@ -6084,8 +5928,7 @@ a {
   border-radius: 1.5rem;
   transition: .3s all !important;
   min-width: auto;
-  background: #a6a99c;
-  background: #a6a99c !important;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .nav-item:focus,
 .cid-ufjOWDUQzP .nav-link:focus {
@@ -6247,7 +6090,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #a6a99c;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -6411,10 +6254,7 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #a6a99c;
-    opacity: 1;
-    border-color: #a6a99c !important;
-    background: #a6a99c !important;
+    background: #538392;
     backdrop-filter: blur(8px);
   }
   .cid-ufjOWDUQzP .navbar-nav .nav-item .nav-link::after {
@@ -6498,7 +6338,7 @@ a {
 .cid-ufyRFeCoxq {
   padding-top: 4rem;
   padding-bottom: 0rem;
-  background-color: #ffc091;
+  background-color: #80b9ad;
 }
 .cid-ufyRFeCoxq .mbr-fallback-image.disabled {
   display: none;
@@ -6555,7 +6395,7 @@ a {
 .cid-ufyTvfZalQ {
   padding-top: 0rem;
   padding-bottom: 4rem;
-  background-color: #ffc091;
+  background-color: #80b9ad;
 }
 .cid-ufyTvfZalQ .mbr-fallback-image.disabled {
   display: none;
@@ -6603,15 +6443,15 @@ a {
   width: 100%;
   height: 100%;
 }
-.cid-ufyWYv9YTu {
+.cid-ug7dkYSztG {
   padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/latar-belakanglatar-belakang-promosi-pendidikan-grid-cat-air-book-berbunga-sekolah-latar-belakang-untuk-unduhan-gratis-735x525.jpg");
 }
-.cid-ufyWYv9YTu .mbr-fallback-image.disabled {
+.cid-ug7dkYSztG .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ufyWYv9YTu .mbr-fallback-image {
+.cid-ug7dkYSztG .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -6620,21 +6460,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ufyWYv9YTu .image-wrap img {
+.cid-ug7dkYSztG .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ufyWYv9YTu .image-wrap img {
+  .cid-ug7dkYSztG .image-wrap img {
     display: block;
     margin: auto;
     width: 80%;
   }
 }
-.cid-ufyWYv9YTu .row-links {
+.cid-ug7dkYSztG .row-links {
   width: 100%;
   justify-content: center;
 }
-.cid-ufyWYv9YTu .header-menu {
+.cid-ug7dkYSztG .header-menu {
   margin-top: 2rem;
   list-style: none;
   display: flex;
@@ -6643,19 +6483,19 @@ a {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-ufyWYv9YTu .header-menu li {
+.cid-ug7dkYSztG .header-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-ufyWYv9YTu .header-menu li p {
+.cid-ug7dkYSztG .header-menu li p {
   margin: 0;
 }
-.cid-ufyWYv9YTu .content-head {
+.cid-ug7dkYSztG .content-head {
   max-width: 800px;
 }
 .cid-ufyU94e10I {
   padding-top: 3rem;
   padding-bottom: 5rem;
-  background: #416d19;
+  background: #538392;
 }
 .cid-ufyU94e10I .mbr-fallback-image.disabled {
   display: none;
@@ -6738,7 +6578,7 @@ a {
 .cid-ufyUa9rHjW {
   padding-top: 1rem;
   padding-bottom: 2rem;
-  background-color: #fff67e;
+  background-color: #80b9ad;
 }
 .cid-ufyUa9rHjW .mbr-fallback-image.disabled {
   display: none;
@@ -6912,7 +6752,6 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: #a6a99c !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -6924,7 +6763,7 @@ a {
   align-items: center;
   border-radius: 100vw;
   margin-top: 1rem;
-  background-color: #a6a99c;
+  background-color: #538392;
   box-shadow: 0 30px 60px 0 rgba(27, 31, 10, 0.08);
 }
 @media (max-width: 992px) {
@@ -6953,8 +6792,7 @@ a {
   border-radius: 1.5rem;
   transition: .3s all !important;
   min-width: auto;
-  background: #a6a99c;
-  background: #a6a99c !important;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .nav-item:focus,
 .cid-ufjOWDUQzP .nav-link:focus {
@@ -7116,7 +6954,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #a6a99c;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -7280,10 +7118,7 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #a6a99c;
-    opacity: 1;
-    border-color: #a6a99c !important;
-    background: #a6a99c !important;
+    background: #538392;
     backdrop-filter: blur(8px);
   }
   .cid-ufjOWDUQzP .navbar-nav .nav-item .nav-link::after {
@@ -7367,7 +7202,7 @@ a {
 .cid-ufyXAWNCc8 {
   padding-top: 3rem;
   padding-bottom: 1rem;
-  background-color: #fff67e;
+  background-color: #78aba8;
 }
 .cid-ufyXAWNCc8 .mbr-fallback-image.disabled {
   display: none;
@@ -7409,7 +7244,7 @@ a {
 .cid-ug1AulijVz {
   padding-top: 2rem;
   padding-bottom: 3rem;
-  background-color: #fff67e;
+  background-color: #78aba8;
 }
 .cid-ug1AulijVz .mbr-fallback-image.disabled {
   display: none;
@@ -7451,15 +7286,15 @@ a {
 .cid-ug1AulijVz .mbr-section-btn {
   color: #000000;
 }
-.cid-ufyZTZIiu5 {
+.cid-ug7dpwz63b {
   padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/latar-belakanglatar-belakang-promosi-pendidikan-grid-cat-air-book-berbunga-sekolah-latar-belakang-untuk-unduhan-gratis-735x525.jpg");
 }
-.cid-ufyZTZIiu5 .mbr-fallback-image.disabled {
+.cid-ug7dpwz63b .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ufyZTZIiu5 .mbr-fallback-image {
+.cid-ug7dpwz63b .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -7468,21 +7303,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ufyZTZIiu5 .image-wrap img {
+.cid-ug7dpwz63b .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ufyZTZIiu5 .image-wrap img {
+  .cid-ug7dpwz63b .image-wrap img {
     display: block;
     margin: auto;
     width: 80%;
   }
 }
-.cid-ufyZTZIiu5 .row-links {
+.cid-ug7dpwz63b .row-links {
   width: 100%;
   justify-content: center;
 }
-.cid-ufyZTZIiu5 .header-menu {
+.cid-ug7dpwz63b .header-menu {
   margin-top: 2rem;
   list-style: none;
   display: flex;
@@ -7491,19 +7326,19 @@ a {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-ufyZTZIiu5 .header-menu li {
+.cid-ug7dpwz63b .header-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-ufyZTZIiu5 .header-menu li p {
+.cid-ug7dpwz63b .header-menu li p {
   margin: 0;
 }
-.cid-ufyZTZIiu5 .content-head {
+.cid-ug7dpwz63b .content-head {
   max-width: 800px;
 }
 .cid-ufyZKTZlK4 {
   padding-top: 3rem;
   padding-bottom: 5rem;
-  background: #416d19;
+  background: #538392;
 }
 .cid-ufyZKTZlK4 .mbr-fallback-image.disabled {
   display: none;
@@ -7586,7 +7421,7 @@ a {
 .cid-ufyZM48UjU {
   padding-top: 1rem;
   padding-bottom: 2rem;
-  background-color: #fff67e;
+  background-color: #80b9ad;
 }
 .cid-ufyZM48UjU .mbr-fallback-image.disabled {
   display: none;
@@ -7760,7 +7595,6 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: #a6a99c !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -7772,7 +7606,7 @@ a {
   align-items: center;
   border-radius: 100vw;
   margin-top: 1rem;
-  background-color: #a6a99c;
+  background-color: #538392;
   box-shadow: 0 30px 60px 0 rgba(27, 31, 10, 0.08);
 }
 @media (max-width: 992px) {
@@ -7801,8 +7635,7 @@ a {
   border-radius: 1.5rem;
   transition: .3s all !important;
   min-width: auto;
-  background: #a6a99c;
-  background: #a6a99c !important;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .nav-item:focus,
 .cid-ufjOWDUQzP .nav-link:focus {
@@ -7964,7 +7797,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #a6a99c;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -8128,10 +7961,7 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #a6a99c;
-    opacity: 1;
-    border-color: #a6a99c !important;
-    background: #a6a99c !important;
+    background: #538392;
     backdrop-filter: blur(8px);
   }
   .cid-ufjOWDUQzP .navbar-nav .nav-item .nav-link::after {
@@ -8198,7 +8028,7 @@ a {
 .cid-ufz5cFGIb8 {
   padding-top: 8rem;
   padding-bottom: 6rem;
-  background-color: #bfea7c;
+  background-color: #80b9ad;
 }
 .cid-ufz5cFGIb8 img,
 .cid-ufz5cFGIb8 .item-img {
@@ -8265,15 +8095,15 @@ a {
 .cid-ufz5cFGIb8 .mbr-section-head .mbr-section-btn {
   color: #000000;
 }
-.cid-ufzmfGc4FQ {
+.cid-ug7dylq7Qd {
   padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/latar-belakanglatar-belakang-promosi-pendidikan-grid-cat-air-book-berbunga-sekolah-latar-belakang-untuk-unduhan-gratis-735x525.jpg");
 }
-.cid-ufzmfGc4FQ .mbr-fallback-image.disabled {
+.cid-ug7dylq7Qd .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ufzmfGc4FQ .mbr-fallback-image {
+.cid-ug7dylq7Qd .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -8282,21 +8112,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ufzmfGc4FQ .image-wrap img {
+.cid-ug7dylq7Qd .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ufzmfGc4FQ .image-wrap img {
+  .cid-ug7dylq7Qd .image-wrap img {
     display: block;
     margin: auto;
     width: 80%;
   }
 }
-.cid-ufzmfGc4FQ .row-links {
+.cid-ug7dylq7Qd .row-links {
   width: 100%;
   justify-content: center;
 }
-.cid-ufzmfGc4FQ .header-menu {
+.cid-ug7dylq7Qd .header-menu {
   margin-top: 2rem;
   list-style: none;
   display: flex;
@@ -8305,19 +8135,19 @@ a {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-ufzmfGc4FQ .header-menu li {
+.cid-ug7dylq7Qd .header-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-ufzmfGc4FQ .header-menu li p {
+.cid-ug7dylq7Qd .header-menu li p {
   margin: 0;
 }
-.cid-ufzmfGc4FQ .content-head {
+.cid-ug7dylq7Qd .content-head {
   max-width: 800px;
 }
 .cid-ufzmhqmLwm {
   padding-top: 3rem;
   padding-bottom: 5rem;
-  background: #416d19;
+  background: #538392;
 }
 .cid-ufzmhqmLwm .mbr-fallback-image.disabled {
   display: none;
@@ -8400,7 +8230,7 @@ a {
 .cid-ufzmiCKi8t {
   padding-top: 1rem;
   padding-bottom: 2rem;
-  background-color: #fff67e;
+  background-color: #80b9ad;
 }
 .cid-ufzmiCKi8t .mbr-fallback-image.disabled {
   display: none;
@@ -8574,7 +8404,6 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: #a6a99c !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -8586,7 +8415,7 @@ a {
   align-items: center;
   border-radius: 100vw;
   margin-top: 1rem;
-  background-color: #a6a99c;
+  background-color: #538392;
   box-shadow: 0 30px 60px 0 rgba(27, 31, 10, 0.08);
 }
 @media (max-width: 992px) {
@@ -8615,8 +8444,7 @@ a {
   border-radius: 1.5rem;
   transition: .3s all !important;
   min-width: auto;
-  background: #a6a99c;
-  background: #a6a99c !important;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .nav-item:focus,
 .cid-ufjOWDUQzP .nav-link:focus {
@@ -8778,7 +8606,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #a6a99c;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -8942,10 +8770,7 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #a6a99c;
-    opacity: 1;
-    border-color: #a6a99c !important;
-    background: #a6a99c !important;
+    background: #538392;
     backdrop-filter: blur(8px);
   }
   .cid-ufjOWDUQzP .navbar-nav .nav-item .nav-link::after {
@@ -9011,8 +8836,8 @@ a {
 }
 .cid-ufznM0ykGL {
   padding-top: 8rem;
-  padding-bottom: 6rem;
-  background-color: #fff67e;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
 }
 .cid-ufznM0ykGL h6 {
   line-height: 1.2;
@@ -9064,15 +8889,32 @@ a {
     margin-bottom: 1rem;
   }
 }
-.cid-ufzoXY1wt8 {
+.cid-ufznM0ykGL .mbr-section-subtitle {
+  text-align: left;
+}
+.cid-ug2F1VXn96 {
+  padding-top: 2rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-ug2F1VXn96 .mbr-text {
+  color: #000000;
+}
+.cid-ug2F1VXn96 .mbr-section-subtitle {
+  color: #000000;
+}
+.cid-ug2F1VXn96 .mbr-section-title {
+  color: #000000;
+}
+.cid-ug7j5xbotT {
   padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/latar-belakanglatar-belakang-promosi-pendidikan-grid-cat-air-book-berbunga-sekolah-latar-belakang-untuk-unduhan-gratis-735x525.jpg");
 }
-.cid-ufzoXY1wt8 .mbr-fallback-image.disabled {
+.cid-ug7j5xbotT .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ufzoXY1wt8 .mbr-fallback-image {
+.cid-ug7j5xbotT .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -9081,21 +8923,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ufzoXY1wt8 .image-wrap img {
+.cid-ug7j5xbotT .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ufzoXY1wt8 .image-wrap img {
+  .cid-ug7j5xbotT .image-wrap img {
     display: block;
     margin: auto;
     width: 80%;
   }
 }
-.cid-ufzoXY1wt8 .row-links {
+.cid-ug7j5xbotT .row-links {
   width: 100%;
   justify-content: center;
 }
-.cid-ufzoXY1wt8 .header-menu {
+.cid-ug7j5xbotT .header-menu {
   margin-top: 2rem;
   list-style: none;
   display: flex;
@@ -9104,19 +8946,19 @@ a {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-ufzoXY1wt8 .header-menu li {
+.cid-ug7j5xbotT .header-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-ufzoXY1wt8 .header-menu li p {
+.cid-ug7j5xbotT .header-menu li p {
   margin: 0;
 }
-.cid-ufzoXY1wt8 .content-head {
+.cid-ug7j5xbotT .content-head {
   max-width: 800px;
 }
 .cid-ufzp16es6l {
   padding-top: 3rem;
   padding-bottom: 5rem;
-  background: #416d19;
+  background: #538392;
 }
 .cid-ufzp16es6l .mbr-fallback-image.disabled {
   display: none;
@@ -9199,7 +9041,7 @@ a {
 .cid-ufzp2GiEwX {
   padding-top: 1rem;
   padding-bottom: 2rem;
-  background-color: #fff67e;
+  background-color: #80b9ad;
 }
 .cid-ufzp2GiEwX .mbr-fallback-image.disabled {
   display: none;
@@ -9373,7 +9215,6 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: #a6a99c !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -9385,7 +9226,7 @@ a {
   align-items: center;
   border-radius: 100vw;
   margin-top: 1rem;
-  background-color: #a6a99c;
+  background-color: #538392;
   box-shadow: 0 30px 60px 0 rgba(27, 31, 10, 0.08);
 }
 @media (max-width: 992px) {
@@ -9414,8 +9255,7 @@ a {
   border-radius: 1.5rem;
   transition: .3s all !important;
   min-width: auto;
-  background: #a6a99c;
-  background: #a6a99c !important;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .nav-item:focus,
 .cid-ufjOWDUQzP .nav-link:focus {
@@ -9577,7 +9417,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #a6a99c;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -9741,10 +9581,7 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #a6a99c;
-    opacity: 1;
-    border-color: #a6a99c !important;
-    background: #a6a99c !important;
+    background: #538392;
     backdrop-filter: blur(8px);
   }
   .cid-ufjOWDUQzP .navbar-nav .nav-item .nav-link::after {
@@ -9828,7 +9665,7 @@ a {
 .cid-ufzOAKYpnD {
   padding-top: 2rem;
   padding-bottom: 0rem;
-  background-color: #fff67e;
+  background-color: #538392;
 }
 .cid-ufzOAKYpnD h6 {
   line-height: 1.2;
@@ -9882,7 +9719,7 @@ a {
 .cid-ufzP6q3nTs {
   padding-top: 2rem;
   padding-bottom: 0rem;
-  background-color: #fff67e;
+  background-color: #538392;
 }
 .cid-ufzP6q3nTs h6 {
   line-height: 1.2;
@@ -9936,7 +9773,7 @@ a {
 .cid-ufzQ4apaSF {
   padding-top: 2rem;
   padding-bottom: 0rem;
-  background-color: #fff67e;
+  background-color: #538392;
 }
 .cid-ufzQ4apaSF h6 {
   line-height: 1.2;
@@ -9990,7 +9827,7 @@ a {
 .cid-ufzQXyFXIM {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #fff67e;
+  background-color: #538392;
 }
 .cid-ufzQXyFXIM h6 {
   line-height: 1.2;
@@ -10041,59 +9878,10 @@ a {
     margin-bottom: 1rem;
   }
 }
-.cid-ug1BlUjejJ {
-  padding-top: 3rem;
-  padding-bottom: 0rem;
-  background-image: url("../../../assets/images/latar-belakanglatar-belakang-promosi-pendidikan-grid-cat-air-book-berbunga-sekolah-latar-belakang-untuk-unduhan-gratis-735x525.jpg");
-}
-.cid-ug1BlUjejJ .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-ug1BlUjejJ .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-ug1BlUjejJ .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-ug1BlUjejJ .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 80%;
-  }
-}
-.cid-ug1BlUjejJ .row-links {
-  width: 100%;
-  justify-content: center;
-}
-.cid-ug1BlUjejJ .header-menu {
-  margin-top: 2rem;
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 0;
-  margin-bottom: 0;
-}
-.cid-ug1BlUjejJ .header-menu li {
-  padding: 0 1rem 1rem 1rem;
-}
-.cid-ug1BlUjejJ .header-menu li p {
-  margin: 0;
-}
-.cid-ug1BlUjejJ .content-head {
-  max-width: 800px;
-}
 .cid-ug1BmLZxgK {
   padding-top: 3rem;
   padding-bottom: 5rem;
-  background: #416d19;
+  background: #538392;
 }
 .cid-ug1BmLZxgK .mbr-fallback-image.disabled {
   display: none;
@@ -10176,7 +9964,7 @@ a {
 .cid-ug1BpqqlCk {
   padding-top: 1rem;
   padding-bottom: 2rem;
-  background-color: #fff67e;
+  background-color: #80b9ad;
 }
 .cid-ug1BpqqlCk .mbr-fallback-image.disabled {
   display: none;
@@ -10350,7 +10138,6 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: #a6a99c !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -10362,7 +10149,7 @@ a {
   align-items: center;
   border-radius: 100vw;
   margin-top: 1rem;
-  background-color: #a6a99c;
+  background-color: #538392;
   box-shadow: 0 30px 60px 0 rgba(27, 31, 10, 0.08);
 }
 @media (max-width: 992px) {
@@ -10391,8 +10178,7 @@ a {
   border-radius: 1.5rem;
   transition: .3s all !important;
   min-width: auto;
-  background: #a6a99c;
-  background: #a6a99c !important;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .nav-item:focus,
 .cid-ufjOWDUQzP .nav-link:focus {
@@ -10554,7 +10340,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #a6a99c;
+  background: #538392;
 }
 .cid-ufjOWDUQzP .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -10718,10 +10504,7 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #a6a99c;
-    opacity: 1;
-    border-color: #a6a99c !important;
-    background: #a6a99c !important;
+    background: #538392;
     backdrop-filter: blur(8px);
   }
   .cid-ufjOWDUQzP .navbar-nav .nav-item .nav-link::after {
@@ -10788,7 +10571,7 @@ a {
 .cid-ufD2AR4vnY {
   padding-top: 7rem;
   padding-bottom: 0rem;
-  background-color: #9bcf53;
+  background-color: #538392;
 }
 .cid-ufD2AR4vnY .mbr-fallback-image.disabled {
   display: none;
@@ -10817,7 +10600,7 @@ a {
   display: flex;
   flex-direction: column;
   height: 100%;
-  background: #fff67e;
+  background: #b3e2a7;
   padding: 2.25rem;
 }
 @media (min-width: 992px) and (max-width: 1200px) {
@@ -10839,7 +10622,7 @@ a {
 .cid-ufD5rlCuA5 {
   padding-top: 0rem;
   padding-bottom: 3rem;
-  background: #9bcf53;
+  background: #538392;
 }
 .cid-ufD5rlCuA5 .mbr-fallback-image.disabled {
   display: none;
@@ -10883,93 +10666,10 @@ a {
 .cid-ufD5rlCuA5 .content-head {
   max-width: 800px;
 }
-.cid-ufD514fuS5 {
-  padding-top: 3rem;
-  padding-bottom: 5rem;
-  background: #416d19;
-}
-.cid-ufD514fuS5 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-ufD514fuS5 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 992px) {
-  .cid-ufD514fuS5 .row .map-wrapper {
-    margin-top: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-ufD514fuS5 .row .map-wrapper {
-    margin-top: 1rem;
-  }
-}
-.cid-ufD514fuS5 .google-map {
-  height: 100%;
-  position: relative;
-}
-.cid-ufD514fuS5 .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-@media (max-width: 992px) {
-  .cid-ufD514fuS5 .google-map iframe {
-    min-height: 350px;
-  }
-}
-.cid-ufD514fuS5 .google-map [data-state-details] {
-  color: #6b6763;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-ufD514fuS5 .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-ufD514fuS5 .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
-.cid-ufD514fuS5 .card-wrapper {
-  padding: 2.25rem;
-  background: #ffffff;
-}
-@media (min-width: 992px) and (max-width: 1200px) {
-  .cid-ufD514fuS5 .card-wrapper {
-    padding: 1.5rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-ufD514fuS5 .card-wrapper {
-    padding: 2rem 1.5rem;
-  }
-}
-.cid-ufD514fuS5 ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-.cid-ufD514fuS5 .content-head {
-  max-width: 800px;
-}
-.cid-ufD514fuS5 .list,
-.cid-ufD514fuS5 .item-wrap {
-  color: #ff719b;
-}
 .cid-ufD52rFGgq {
   padding-top: 1rem;
   padding-bottom: 2rem;
-  background-color: #fff67e;
+  background-color: #80b9ad;
 }
 .cid-ufD52rFGgq .mbr-fallback-image.disabled {
   display: none;
