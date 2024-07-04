@@ -52,7 +52,7 @@ body {
   font-size: 2.5rem;
 }
 .display-7 {
-  font-family: 'Golos Text', sans-serif;
+  font-family: 'Margarine', display;
   font-size: 1.4rem;
   line-height: 1.3;
 }
@@ -645,7 +645,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Golos Text', sans-serif;
+  font-family: 'Margarine', display;
   font-size: 1.4rem;
   line-height: 1.3;
   font-weight: 400;
@@ -660,7 +660,7 @@ a:hover {
   border-color: #ff8cbc !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Golos Text', sans-serif;
+  font-family: 'Margarine', display;
   font-size: 1.4rem;
   line-height: 1.3;
   font-weight: 400;
@@ -1382,6 +1382,9 @@ a {
 .cid-ufjRkoSpT4 .content-head {
   max-width: 800px;
 }
+.cid-ufjRkoSpT4 .mbr-section-title {
+  color: #000000;
+}
 .cid-ufjWUgXwYy {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -1585,7 +1588,7 @@ a {
 }
 .cid-tIsi3HZcCy .mbr-section-title {
   text-align: center;
-  color: #000000;
+  color: #f7f7f7;
 }
 .cid-tIsi3HZcCy .card-title1,
 .cid-tIsi3HZcCy .social-row {
@@ -1735,6 +1738,9 @@ a {
 .cid-uflW3zI05N .item-wrap {
   color: #ff719b;
 }
+.cid-uflW3zI05N .mbr-section-title {
+  color: #f7f7f7;
+}
 .cid-ufmh8LEgwq {
   padding-top: 1rem;
   padding-bottom: 2rem;
@@ -1780,6 +1786,10 @@ a {
 .cid-ufmh8LEgwq [class*=" socicon-"]:before {
   line-height: 55px;
   padding: .6rem;
+}
+.cid-ufmh8LEgwq .mbr-section-title,
+.cid-ufmh8LEgwq .social-list {
+  color: #000000;
 }
 .cid-ufz4t8q7Yq {
   padding-top: 2rem;
@@ -3119,7 +3129,7 @@ a {
   }
 }
 .cid-ufzP6q3nTs {
-  padding-top: 2rem;
+  padding-top: 0rem;
   padding-bottom: 0rem;
   background-color: #80b9ad;
 }
@@ -3173,7 +3183,7 @@ a {
   }
 }
 .cid-ufzQ4apaSF {
-  padding-top: 2rem;
+  padding-top: 0rem;
   padding-bottom: 0rem;
   background-color: #80b9ad;
 }
@@ -3227,7 +3237,7 @@ a {
   }
 }
 .cid-ufzQXyFXIM {
-  padding-top: 2rem;
+  padding-top: 0rem;
   padding-bottom: 2rem;
   background-color: #80b9ad;
 }
@@ -4042,15 +4052,15 @@ a {
 .cid-ug2F1VXn96 .mbr-section-title {
   color: #000000;
 }
-.cid-ug7j5xbotT {
+.cid-uhztGbm2GZ {
   padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/latar-belakanglatar-belakang-promosi-pendidikan-grid-cat-air-book-berbunga-sekolah-latar-belakang-untuk-unduhan-gratis-735x525.jpg");
 }
-.cid-ug7j5xbotT .mbr-fallback-image.disabled {
+.cid-uhztGbm2GZ .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ug7j5xbotT .mbr-fallback-image {
+.cid-uhztGbm2GZ .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -4059,21 +4069,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ug7j5xbotT .image-wrap img {
+.cid-uhztGbm2GZ .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ug7j5xbotT .image-wrap img {
+  .cid-uhztGbm2GZ .image-wrap img {
     display: block;
     margin: auto;
     width: 80%;
   }
 }
-.cid-ug7j5xbotT .row-links {
+.cid-uhztGbm2GZ .row-links {
   width: 100%;
   justify-content: center;
 }
-.cid-ug7j5xbotT .header-menu {
+.cid-uhztGbm2GZ .header-menu {
   margin-top: 2rem;
   list-style: none;
   display: flex;
@@ -4082,13 +4092,13 @@ a {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-ug7j5xbotT .header-menu li {
+.cid-uhztGbm2GZ .header-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-ug7j5xbotT .header-menu li p {
+.cid-uhztGbm2GZ .header-menu li p {
   margin: 0;
 }
-.cid-ug7j5xbotT .content-head {
+.cid-uhztGbm2GZ .content-head {
   max-width: 800px;
 }
 .cid-ufzp16es6l {
@@ -4855,15 +4865,15 @@ a {
 .cid-ufz5cFGIb8 .mbr-section-head .mbr-section-btn {
   color: #000000;
 }
-.cid-ug7dylq7Qd {
+.cid-uhztzvrlMg {
   padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/latar-belakanglatar-belakang-promosi-pendidikan-grid-cat-air-book-berbunga-sekolah-latar-belakang-untuk-unduhan-gratis-735x525.jpg");
 }
-.cid-ug7dylq7Qd .mbr-fallback-image.disabled {
+.cid-uhztzvrlMg .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ug7dylq7Qd .mbr-fallback-image {
+.cid-uhztzvrlMg .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -4872,21 +4882,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ug7dylq7Qd .image-wrap img {
+.cid-uhztzvrlMg .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ug7dylq7Qd .image-wrap img {
+  .cid-uhztzvrlMg .image-wrap img {
     display: block;
     margin: auto;
     width: 80%;
   }
 }
-.cid-ug7dylq7Qd .row-links {
+.cid-uhztzvrlMg .row-links {
   width: 100%;
   justify-content: center;
 }
-.cid-ug7dylq7Qd .header-menu {
+.cid-uhztzvrlMg .header-menu {
   margin-top: 2rem;
   list-style: none;
   display: flex;
@@ -4895,13 +4905,13 @@ a {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-ug7dylq7Qd .header-menu li {
+.cid-uhztzvrlMg .header-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-ug7dylq7Qd .header-menu li p {
+.cid-uhztzvrlMg .header-menu li p {
   margin: 0;
 }
-.cid-ug7dylq7Qd .content-head {
+.cid-uhztzvrlMg .content-head {
   max-width: 800px;
 }
 .cid-ufzmhqmLwm {
@@ -5698,15 +5708,15 @@ a {
 .cid-ug1AulijVz .mbr-section-btn {
   color: #000000;
 }
-.cid-ug7dpwz63b {
+.cid-uhztsvOhDc {
   padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/latar-belakanglatar-belakang-promosi-pendidikan-grid-cat-air-book-berbunga-sekolah-latar-belakang-untuk-unduhan-gratis-735x525.jpg");
 }
-.cid-ug7dpwz63b .mbr-fallback-image.disabled {
+.cid-uhztsvOhDc .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ug7dpwz63b .mbr-fallback-image {
+.cid-uhztsvOhDc .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -5715,21 +5725,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ug7dpwz63b .image-wrap img {
+.cid-uhztsvOhDc .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ug7dpwz63b .image-wrap img {
+  .cid-uhztsvOhDc .image-wrap img {
     display: block;
     margin: auto;
     width: 80%;
   }
 }
-.cid-ug7dpwz63b .row-links {
+.cid-uhztsvOhDc .row-links {
   width: 100%;
   justify-content: center;
 }
-.cid-ug7dpwz63b .header-menu {
+.cid-uhztsvOhDc .header-menu {
   margin-top: 2rem;
   list-style: none;
   display: flex;
@@ -5738,13 +5748,13 @@ a {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-ug7dpwz63b .header-menu li {
+.cid-uhztsvOhDc .header-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-ug7dpwz63b .header-menu li p {
+.cid-uhztsvOhDc .header-menu li p {
   margin: 0;
 }
-.cid-ug7dpwz63b .content-head {
+.cid-uhztsvOhDc .content-head {
   max-width: 800px;
 }
 .cid-ufyZKTZlK4 {
@@ -6562,15 +6572,15 @@ a {
   width: 100%;
   height: 100%;
 }
-.cid-ug7dkYSztG {
+.cid-uhztcJhSMf {
   padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/latar-belakanglatar-belakang-promosi-pendidikan-grid-cat-air-book-berbunga-sekolah-latar-belakang-untuk-unduhan-gratis-735x525.jpg");
 }
-.cid-ug7dkYSztG .mbr-fallback-image.disabled {
+.cid-uhztcJhSMf .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ug7dkYSztG .mbr-fallback-image {
+.cid-uhztcJhSMf .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -6579,21 +6589,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ug7dkYSztG .image-wrap img {
+.cid-uhztcJhSMf .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ug7dkYSztG .image-wrap img {
+  .cid-uhztcJhSMf .image-wrap img {
     display: block;
     margin: auto;
     width: 80%;
   }
 }
-.cid-ug7dkYSztG .row-links {
+.cid-uhztcJhSMf .row-links {
   width: 100%;
   justify-content: center;
 }
-.cid-ug7dkYSztG .header-menu {
+.cid-uhztcJhSMf .header-menu {
   margin-top: 2rem;
   list-style: none;
   display: flex;
@@ -6602,13 +6612,13 @@ a {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-ug7dkYSztG .header-menu li {
+.cid-uhztcJhSMf .header-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-ug7dkYSztG .header-menu li p {
+.cid-uhztcJhSMf .header-menu li p {
   margin: 0;
 }
-.cid-ug7dkYSztG .content-head {
+.cid-uhztcJhSMf .content-head {
   max-width: 800px;
 }
 .cid-ufyU94e10I {
@@ -7363,15 +7373,15 @@ a {
   text-align: left;
   color: #000000;
 }
-.cid-ug7dgbOESx {
+.cid-uhzt2PQgxt {
   padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/latar-belakanglatar-belakang-promosi-pendidikan-grid-cat-air-book-berbunga-sekolah-latar-belakang-untuk-unduhan-gratis-735x525.jpg");
 }
-.cid-ug7dgbOESx .mbr-fallback-image.disabled {
+.cid-uhzt2PQgxt .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ug7dgbOESx .mbr-fallback-image {
+.cid-uhzt2PQgxt .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -7380,21 +7390,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ug7dgbOESx .image-wrap img {
+.cid-uhzt2PQgxt .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ug7dgbOESx .image-wrap img {
+  .cid-uhzt2PQgxt .image-wrap img {
     display: block;
     margin: auto;
     width: 80%;
   }
 }
-.cid-ug7dgbOESx .row-links {
+.cid-uhzt2PQgxt .row-links {
   width: 100%;
   justify-content: center;
 }
-.cid-ug7dgbOESx .header-menu {
+.cid-uhzt2PQgxt .header-menu {
   margin-top: 2rem;
   list-style: none;
   display: flex;
@@ -7403,13 +7413,13 @@ a {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-ug7dgbOESx .header-menu li {
+.cid-uhzt2PQgxt .header-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-ug7dgbOESx .header-menu li p {
+.cid-uhzt2PQgxt .header-menu li p {
   margin: 0;
 }
-.cid-ug7dgbOESx .content-head {
+.cid-uhzt2PQgxt .content-head {
   max-width: 800px;
 }
 .cid-ufAp51UitO {
@@ -8152,15 +8162,15 @@ a {
 .cid-ufyKmZ4xIx .content-head {
   max-width: 800px;
 }
-.cid-ug7d99dXrs {
+.cid-uhzsT27tUA {
   padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/latar-belakanglatar-belakang-promosi-pendidikan-grid-cat-air-book-berbunga-sekolah-latar-belakang-untuk-unduhan-gratis-735x525.jpg");
 }
-.cid-ug7d99dXrs .mbr-fallback-image.disabled {
+.cid-uhzsT27tUA .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ug7d99dXrs .mbr-fallback-image {
+.cid-uhzsT27tUA .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -8169,21 +8179,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ug7d99dXrs .image-wrap img {
+.cid-uhzsT27tUA .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ug7d99dXrs .image-wrap img {
+  .cid-uhzsT27tUA .image-wrap img {
     display: block;
     margin: auto;
     width: 80%;
   }
 }
-.cid-ug7d99dXrs .row-links {
+.cid-uhzsT27tUA .row-links {
   width: 100%;
   justify-content: center;
 }
-.cid-ug7d99dXrs .header-menu {
+.cid-uhzsT27tUA .header-menu {
   margin-top: 2rem;
   list-style: none;
   display: flex;
@@ -8192,13 +8202,13 @@ a {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-ug7d99dXrs .header-menu li {
+.cid-uhzsT27tUA .header-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-ug7d99dXrs .header-menu li p {
+.cid-uhzsT27tUA .header-menu li p {
   margin: 0;
 }
-.cid-ug7d99dXrs .content-head {
+.cid-uhzsT27tUA .content-head {
   max-width: 800px;
 }
 .cid-ufyWJFlgfr {
@@ -8915,7 +8925,7 @@ a {
   .cid-ufyJvsoyTh .image-wrap img {
     display: block;
     margin: auto;
-    width: 120%;
+    width: 90%;
   }
 }
 .cid-ufyJvsoyTh .row-links {
@@ -8940,15 +8950,15 @@ a {
 .cid-ufyJvsoyTh .content-head {
   max-width: 800px;
 }
-.cid-ug7d4fzZ5G {
+.cid-uhzsEZjU0v {
   padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/latar-belakanglatar-belakang-promosi-pendidikan-grid-cat-air-book-berbunga-sekolah-latar-belakang-untuk-unduhan-gratis-735x525.jpg");
 }
-.cid-ug7d4fzZ5G .mbr-fallback-image.disabled {
+.cid-uhzsEZjU0v .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ug7d4fzZ5G .mbr-fallback-image {
+.cid-uhzsEZjU0v .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -8957,21 +8967,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ug7d4fzZ5G .image-wrap img {
+.cid-uhzsEZjU0v .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ug7d4fzZ5G .image-wrap img {
+  .cid-uhzsEZjU0v .image-wrap img {
     display: block;
     margin: auto;
     width: 80%;
   }
 }
-.cid-ug7d4fzZ5G .row-links {
+.cid-uhzsEZjU0v .row-links {
   width: 100%;
   justify-content: center;
 }
-.cid-ug7d4fzZ5G .header-menu {
+.cid-uhzsEZjU0v .header-menu {
   margin-top: 2rem;
   list-style: none;
   display: flex;
@@ -8980,13 +8990,13 @@ a {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-ug7d4fzZ5G .header-menu li {
+.cid-uhzsEZjU0v .header-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-ug7d4fzZ5G .header-menu li p {
+.cid-uhzsEZjU0v .header-menu li p {
   margin: 0;
 }
-.cid-ug7d4fzZ5G .content-head {
+.cid-uhzsEZjU0v .content-head {
   max-width: 800px;
 }
 .cid-ufyKaKrQ1C {
@@ -9738,15 +9748,15 @@ a {
 .cid-ufCRXP3HDP .mbr-section-title {
   color: #000000;
 }
-.cid-ug7cZjmBYf {
+.cid-uhzpDzwdQd {
   padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/latar-belakanglatar-belakang-promosi-pendidikan-grid-cat-air-book-berbunga-sekolah-latar-belakang-untuk-unduhan-gratis-735x525.jpg");
 }
-.cid-ug7cZjmBYf .mbr-fallback-image.disabled {
+.cid-uhzpDzwdQd .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ug7cZjmBYf .mbr-fallback-image {
+.cid-uhzpDzwdQd .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -9755,21 +9765,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ug7cZjmBYf .image-wrap img {
+.cid-uhzpDzwdQd .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ug7cZjmBYf .image-wrap img {
+  .cid-uhzpDzwdQd .image-wrap img {
     display: block;
     margin: auto;
     width: 80%;
   }
 }
-.cid-ug7cZjmBYf .row-links {
+.cid-uhzpDzwdQd .row-links {
   width: 100%;
   justify-content: center;
 }
-.cid-ug7cZjmBYf .header-menu {
+.cid-uhzpDzwdQd .header-menu {
   margin-top: 2rem;
   list-style: none;
   display: flex;
@@ -9778,13 +9788,13 @@ a {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-ug7cZjmBYf .header-menu li {
+.cid-uhzpDzwdQd .header-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-ug7cZjmBYf .header-menu li p {
+.cid-uhzpDzwdQd .header-menu li p {
   margin: 0;
 }
-.cid-ug7cZjmBYf .content-head {
+.cid-uhzpDzwdQd .content-head {
   max-width: 800px;
 }
 .cid-ufyHCMvfyU {
@@ -10477,15 +10487,15 @@ a {
     padding: 1rem;
   }
 }
-.cid-ugdM7Ya3Au {
+.cid-uhznvx4UgM {
   padding-top: 8rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/192321188-860716581207419-2558697464485975750-n-1-1080x1080.jpeg");
+  padding-bottom: 8rem;
+  background-color: #f7f7f7;
 }
-.cid-ugdM7Ya3Au .mbr-fallback-image.disabled {
+.cid-uhznvx4UgM .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ugdM7Ya3Au .mbr-fallback-image {
+.cid-uhznvx4UgM .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -10494,46 +10504,42 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ugdM7Ya3Au .card-wrapper {
-  background: #edefeb;
-}
-@media (max-width: 767px) {
-  .cid-ugdM7Ya3Au .card-wrapper {
-    padding: 1.5rem;
+@media (max-width: 991px) {
+  .cid-uhznvx4UgM .image-wrapper {
+    margin-bottom: 1rem;
   }
 }
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-ugdM7Ya3Au .card-wrapper {
-    padding: 2.25rem;
+.cid-uhznvx4UgM .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-uhznvx4UgM .image-wrapper {
+    padding: 1rem;
   }
 }
 @media (min-width: 992px) {
-  .cid-ugdM7Ya3Au .card-wrapper {
-    padding: 4rem;
+  .cid-uhznvx4UgM .text-wrapper {
+    padding: 0 2rem;
   }
 }
-.cid-ugdM7Ya3Au .mbr-text,
-.cid-ugdM7Ya3Au .mbr-section-btn {
+.cid-uhznvx4UgM .mbr-section-title {
   color: #000000;
-}
-.cid-ugdM7Ya3Au .card-title,
-.cid-ugdM7Ya3Au .card-box {
-  text-align: left;
-  color: #000000;
-}
-.cid-ugdM7Ya3Au .card-title,
-.cid-ugdM7Ya3Au .card-box DIV {
   text-align: center;
 }
-.cid-ug7cRbV3Dv {
+.cid-uhznvx4UgM .mbr-text,
+.cid-uhznvx4UgM .mbr-section-btn {
+  color: #000000;
+  text-align: left;
+}
+.cid-uhzlj2Vuth {
   padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/latar-belakanglatar-belakang-promosi-pendidikan-grid-cat-air-book-berbunga-sekolah-latar-belakang-untuk-unduhan-gratis-735x525.jpg");
 }
-.cid-ug7cRbV3Dv .mbr-fallback-image.disabled {
+.cid-uhzlj2Vuth .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ug7cRbV3Dv .mbr-fallback-image {
+.cid-uhzlj2Vuth .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -10542,21 +10548,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ug7cRbV3Dv .image-wrap img {
+.cid-uhzlj2Vuth .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ug7cRbV3Dv .image-wrap img {
+  .cid-uhzlj2Vuth .image-wrap img {
     display: block;
     margin: auto;
     width: 80%;
   }
 }
-.cid-ug7cRbV3Dv .row-links {
+.cid-uhzlj2Vuth .row-links {
   width: 100%;
   justify-content: center;
 }
-.cid-ug7cRbV3Dv .header-menu {
+.cid-uhzlj2Vuth .header-menu {
   margin-top: 2rem;
   list-style: none;
   display: flex;
@@ -10565,13 +10571,13 @@ a {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-ug7cRbV3Dv .header-menu li {
+.cid-uhzlj2Vuth .header-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-ug7cRbV3Dv .header-menu li p {
+.cid-uhzlj2Vuth .header-menu li p {
   margin: 0;
 }
-.cid-ug7cRbV3Dv .content-head {
+.cid-uhzlj2Vuth .content-head {
   max-width: 800px;
 }
 .cid-ufnTfs49Du {
